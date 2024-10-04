@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b806b32a.css",
+    "main.js": "/static/js/main.98e6dd44.js",
+    "static/js/453.a59f4ea8.chunk.js": "/static/js/453.a59f4ea8.chunk.js",
+    "static/media/AnnouncementofVenue-SocialMedia.png": "/static/media/AnnouncementofVenue-SocialMedia.ddc680f715dd9b1df4e2.png",
+    "static/media/donut-chart.png": "/static/media/donut-chart.e01b15d7b3cf5be19179.png",
+    "static/media/MacBook Pro 14_ - 4.png": "/static/media/MacBook Pro 14_ - 4.d112ef0b136a955511c5.png",
+    "static/media/candles.png": "/static/media/candles.73911f59348fa5b66782.png",
+    "index.html": "/index.html",
+    "main.b806b32a.css.map": "/static/css/main.b806b32a.css.map",
+    "main.98e6dd44.js.map": "/static/js/main.98e6dd44.js.map",
+    "453.a59f4ea8.chunk.js.map": "/static/js/453.a59f4ea8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b806b32a.css",
+    "static/js/main.98e6dd44.js"
+  ]
+}
